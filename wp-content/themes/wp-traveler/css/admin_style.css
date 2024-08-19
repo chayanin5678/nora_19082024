@@ -1,0 +1,156 @@
+/**
+ * wp-traveler WordPress Theme, ordasvit.com
+ * wp-traveler is distributed under the terms of the GNU GPL
+ * Copyright: OrdaSvit, Andrey Kvasnevskiy, ordasvit.com
+ */
+#accordion-section-wp_traveler_color_theme h3.accordion-section-title:before {
+    content: "\f1fc";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-wp_traveler_advanced_main_menu h3.accordion-section-title:before {
+    content: "\f015";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-wp_traveler_advanced_options h3.accordion-section-title:before {
+    content: "\f19a";
+    font-family: "Font Awesome 5 Brands";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-wp_traveler_advanced_body_links h3.accordion-section-title:before {
+    content: "\f06c";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-wp_traveler_advanced_footer_links h3.accordion-section-title:before {
+    content: "\f149";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-wp_traveler_advanced_body h3.accordion-section-title:before {
+    content: "\f14c";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-wp_traveler_advanced_body h3.accordion-section-title:before {
+    content: "\f14c";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-wp_traveler_advanced_typography h3.accordion-section-title:before {
+    content: "\f031";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-title_tagline h3.accordion-section-title:before {
+    content: "\f1dd";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-colors h3.accordion-section-title:before {
+    content: "\f1fb";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-header_image h3.accordion-section-title:before {
+    content: "\f0f3";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-nav h3.accordion-section-title:before {
+    content: "\f0b2";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-panel-widgets h3.accordion-section-title:before {
+    content: "\f0db";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-static_front_page h3.accordion-section-title:before {
+    content: "\f022";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-wp_traveler_advanced_social_links h3.accordion-section-title:before {
+    content: "\f099";
+    font-family: "Font Awesome 5 Brands";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-wp_traveler_advanced_copyright h3.accordion-section-title:before {
+    content: "\f1f9";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-wp_traveler_advanced_mail_top h3.accordion-section-title:before {
+    content: "\f0e0";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-wp_traveler_advanced_top_menu h3.accordion-section-title:before {
+    content: "\f3bf";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
+
+#accordion-section-wp_traveler_advanced_footer_menu h3.accordion-section-title:before {
+    content: "\f3be";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    margin-right: 10px;
+}
